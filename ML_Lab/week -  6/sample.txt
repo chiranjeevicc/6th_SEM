@@ -1,0 +1,1 @@
+apply k-means algorithm to cluster a set of data stored in a .csv file
